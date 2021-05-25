@@ -1,8 +1,9 @@
 <h1 align="center">Hello there, I'm Magui Lococo</h1>
 <h3 align="center">Full Stack Developer from Argentina 🧉</h3>
 <hr>
-
-- 🧩 I’m currently working on **[My House App]**(https://central.vercel.app) --> repository [client](https://github.com/my-house-app/central) & [server](https://github.com/my-house-app/api)
+  <img align="right" src="./Studying-bro.svg" alt="me" width="440" height="440"/>
+  
+- 🧩 I’m currently working on **[My House App](https://central.vercel.app)** --> repository [client](https://github.com/my-house-app/central) & [server](https://github.com/my-house-app/api)
 
 - 🌱 I’m learning **[Mongo DB](https://www.mongodb.com/) and [Graph QL](https://graphql.org/)**
 
@@ -23,70 +24,58 @@ magdalenalococo@gmail.com
 
 <br>
 <hr>
-<h3 align="left">Skills</h3>
-  <img src="./Studying-bro.svg" alt="me" width="300" height="300"/>
+<h3>Skills</h3>
     <p align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://camo.githubusercontent.com/7749a2014cc8da219d6b6ec5dac78c2cce719ce9499e2cdccd1482932779c08a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d63757272656e74436f6c6f72" alt="JavaScript" width="30" height="30"/>
         <small>Javascript</small>
       </a>
-
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
         <small>React</small>
       </a>
     </p>
-
     <p align="center">
       <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
         <span>Node.js</span>
       </a>
-
       <a href="https://redux.js.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
         <span>Redux</span>
       </a>
-
       <a href="https://www.mysql.com/" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
         <span>MySql</span>
       </a>
     </p>
-
     <p align="center">
       <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
         <span>CSS</span>
       </a>
-
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
         <span>Git</span>
       </a>
-
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
         <span>HTML</span>
       </a>
-
       <a href="https://expressjs.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
         <span>Express</span>
       </a>
-    </p>
-
+</p>
     <p align="center">
       <a href="https://www.postgresql.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
         <span>PostgreSql</span>
       </a>
-
       <a href="https://sequelize.org/" target="_blank">
         <img src="https://camo.githubusercontent.com/319ef78fa108fc000a838b6566c3dc6bb6f352c590661da03b50f1ce0d0db6d5/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f73657175656c697a652d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d326563353339" alt="sqlite" width="30" height="30"/>
         <span>Sequelize</span>
-      </a>  
-
+      </a> 
       <a href="https://www.sqlite.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/>
         <span>SQLite</span>
