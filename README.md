@@ -95,3 +95,11 @@ magdalenalococo@gmail.com
 <br>
 <hr>
 <h2 align="left">My Projects</h2>
+<h3>DogApp</h3>
+Meet the diversity of dogs in the world
+This App was my final project in the Henry Bootcamp. It was developed using React, Redux, CSS modules and HTML in the front and Node, Express, Sequelize and Postgres on the server side.
+
+<h3>My House App</h3>
+
+<h3>Weather App</h3>
+<img align="right" src="./Studying-bro.svg" alt="me" width="340" height="340"/>
