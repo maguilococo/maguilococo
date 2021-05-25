@@ -102,7 +102,7 @@ magdalenalococo@gmail.com
   </a>
 </p>
 
-<img src="https://storyset.com/illustration/studying/bro#9A0000FF&hide=&hide=complete" alt="me" width="80" height="80"/>
+<img src="./Studying-bro.svg" alt="me" width="80" height="80"/>
 
 <br>
 <hr>
