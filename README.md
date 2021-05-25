@@ -9,8 +9,7 @@
 
 - ⚡ Fun fact -> **I love animals and I think [meerkats](https://www.youtube.com/watch?v=W4og8g_X22o) kind of describe me**
 <br>
-<hr>
-<img align="left" src="https://img.icons8.com/windows/32/000000/share-2.png" height="25" width="25" />
+
 <h3>Reach me at </h3>
 <p align="left">
 <a href="magdalenalococo@gmail.com">
@@ -96,10 +95,14 @@ magdalenalococo@gmail.com
 <hr>
 <h2 align="left">My Projects</h2>
 <h3>DogApp</h3>
-Meet the diversity of dogs in the world
-This App was my final project in the Henry Bootcamp. It was developed using React, Redux, CSS modules and HTML in the front and Node, Express, Sequelize and Postgres on the server side.
+Meet the diversity of dogs in the world!
+This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
 <img align="right" src="./DogApp/landPage.png" alt="me" width="340" height="340"/>
-
+<img align="right" src="./DogApp/Home.png" alt="me" width="340" height="340"/>
+<img align="right" src="./DogApp/form.png" alt="me" width="340" height="340"/>
+<img align="right" src="./DogApp/search_filterpng.png" alt="me" width="340" height="340"/>
+<img align="right" src="./DogApp/details.png" alt="me" width="340" height="340"/>
 <h3>My House App</h3>
 
-<h3>Weather App</h3>
+<h3>WeatherApp</h3>
+
