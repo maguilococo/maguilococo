@@ -20,9 +20,9 @@
 
 
 <br>
-<h3 align="left">Skills</h3>
 <hr>
-<p align="center">
+<h3 align="left">Skills</h3>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://camo.githubusercontent.com/7749a2014cc8da219d6b6ec5dac78c2cce719ce9499e2cdccd1482932779c08a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d63757272656e74436f6c6f72" alt="JavaScript" width="30" height="30"/>
     <span>Javascript</span>
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
     <span>Node.js</span>
@@ -51,7 +51,7 @@
   </a>
 </p>
  
-<p align="center">
+<p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
     <span>CSS</span>
@@ -73,7 +73,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
     <span>PostgreSql</span>
@@ -89,7 +89,7 @@
     <span>SQLite</span>
   </a>  
 </p>
-<p align="center">                                                                                                           
+<p align="left">                                                                                                           
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
     <span>Bootstrap</span>
