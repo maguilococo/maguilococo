@@ -1,14 +1,16 @@
 <h1 align="center">Hello there 👋, I'm Magui Lococo</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
+<hr>
 
-- 🔭 I’m currently working on [My House App](https://central.vercel.app)
+- 🔭 I’m currently working on [My House App](https://central.vercel.app) --> repository [client](https://github.com/my-house-app/central) & [server](https://github.com/my-house-app/api)
 
-- 🌱 I’m currently learning **Mongo DB and Graph QL**
+- 🌱 I’m currently learning **[Mongo DB](https://www.mongodb.com/) and [Graph QL](https://graphql.org/)**
 
 - 📫 You can reach me at **magdalenalococo@gmail.com**
 
-- ⚡ Fun fact **I love animals and I think meerkats kind of describe me**
+- ⚡ Fun fact **I love animals and I think [meerkats](https://www.youtube.com/watch?v=W4og8g_X22o) kind of describe me**
 
+<hr>
 <h3><img align="center" src="https://img.icons8.com/windows/32/000000/share-2.png" alt="connect" height="30" width="30" /> Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/magdalenalococo" target="blank"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="magdalenalococo" height="30" width="40" /></a>
@@ -17,8 +19,9 @@
 
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<h3 align="left">Skills</h3>
+<hr>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://camo.githubusercontent.com/7749a2014cc8da219d6b6ec5dac78c2cce719ce9499e2cdccd1482932779c08a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d63757272656e74436f6c6f72" alt="JavaScript" width="30" height="30"/>
