@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I'm Magui Lococo</h1>
 <h3 align="center">Full Stack Developer from Argentina 🧉</h3>
 <hr>
-  <img align="right" src="./Studying-bro.svg" alt="me" width="440" height="440"/>
-  
+<img align="right" src="./Studying-bro.svg" alt="me" width="340" height="340"/>
+
 - 🧩 I’m currently working on **[My House App](https://central.vercel.app)** --> repository [client](https://github.com/my-house-app/central) & [server](https://github.com/my-house-app/api)
 
 - 🌱 I’m learning **[Mongo DB](https://www.mongodb.com/) and [Graph QL](https://graphql.org/)**
