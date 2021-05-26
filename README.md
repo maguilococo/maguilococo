@@ -123,7 +123,7 @@ magdalenalococo@gmail.com
   <h3>My House App</h3>
   <p>
     <b>Find your next home in our real estate app.</b><br/>
-    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
+    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
   <br />
   <a href="https://central.vercel.app" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/my-house-app/central" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
   </p>
