@@ -91,7 +91,7 @@ magdalenalococo@gmail.com
   <h3>DogApp</h3>
   <p>
     <b>Meet the diversity of dogs in the world!</b><br/>
-    This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
+    This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node.js, Express, Sequelize and Postgress in the server side.
   <br />
   <a href="http://18.216.92.193/" target="_blank"><b>Try the app</b></a> --> repository <a href="https://github.com/maguilococo/PI-Dogs/tree/main/client" target="_blank">client</a> & </a><a href="https://github.com/maguilococo/PI-Dogs/tree/main/api" target="_blank">server</a>
   </p>  
@@ -123,7 +123,7 @@ magdalenalococo@gmail.com
   <h3>My House App</h3>
   <p>
     <b>Find your next home in our real estate app.</b><br/>
-    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
+    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
   <br />
   <a href="https://central.vercel.app" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/my-house-app/central" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
   </p>
@@ -144,7 +144,7 @@ magdalenalococo@gmail.com
   
 
   <br />
-  <h3>WeatherApp</h3>
+  <h3>The Weather App</h3>
   <p>
     <b>Check what's the weather like in any city of the world!</b><br/>
   This app was my first app learning React and CSS modules in the Henry Bootcamp
