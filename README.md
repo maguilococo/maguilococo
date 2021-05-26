@@ -93,7 +93,8 @@ magdalenalococo@gmail.com
 <hr>
 <h2 align="left">My Projects</h2>
   <h3>DogApp</h3>
-  <p>Meet the diversity of dogs in the world!
+  <p>
+    <b>Meet the diversity of dogs in the world!</b><br/>
     This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
   </p>  
   <p>
@@ -122,8 +123,10 @@ magdalenalococo@gmail.com
   <br />
   
   <h3>My House App</h3>
-  Find your next home in our real estate app.
-  Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
+  <p>
+    <b>Find your next home in our real estate app.</b><br/>
+    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
+  </p>
   <p>
     <a href="https://central.vercel.app" target="_blank">
       <img  align="center" src="./MyHouseApp/Home.png" alt="me" width="260" height="140"/>
@@ -143,7 +146,15 @@ magdalenalococo@gmail.com
   <br />
   <h3>WeatherApp</h3>
   <p>
-    <img  align="left" src="./WeatherApp/home.png" alt="me" width="260" height="140"/>
-    <img  align="left" src="./WeatherApp/emptyHome.png" alt="me" width="260" height="140"/>
+    <b>Check what's the weather like in any city of the world!</b><br/>
+  This app was my first app learning React and CSS modules in the Henry Bootcamp
+  </p>
+  <p>
+    <a href="./WeatherApp/emptyHome.png" target="_blank">
+      <img  align="left" src="./WeatherApp/home.png" alt="me" width="260" height="140"/>
+    </a>
+    <a href="./WeatherApp/emptyHome.png" target="_blank">
+      <img  align="left" src="./WeatherApp/emptyHome.png" alt="me" width="260" height="140"/>
+  </a>
   </p>
 </div>
