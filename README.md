@@ -23,7 +23,7 @@ magdalenalococo@gmail.com
 
 <br>
 <hr>
-<h3>Skills</h3>
+<h2>Skills</h2>
     <p align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://camo.githubusercontent.com/7749a2014cc8da219d6b6ec5dac78c2cce719ce9499e2cdccd1482932779c08a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d63757272656e74436f6c6f72" alt="JavaScript" width="40" height="40"/>
@@ -92,6 +92,8 @@ magdalenalococo@gmail.com
   <p>
     <b>Meet the diversity of dogs in the world!</b><br/>
     This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
+  <br />
+  <a href="http://18.216.92.193/" target="_blank"><b>Try the app</b></a> --> repository <a href="https://github.com/maguilococo/PI-Dogs/tree/main/client" target="_blank">client</a> & </a><a href="https://github.com/maguilococo/PI-Dogs/tree/main/api" target="_blank">server</a>
   </p>  
   <p>
     <a href="http://18.216.92.193/" target="_blank">
@@ -122,6 +124,8 @@ magdalenalococo@gmail.com
   <p>
     <b>Find your next home in our real estate app.</b><br/>
     Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
+  <br />
+  <a href="https://central.vercel.app" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/my-house-app/central" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
   </p>
   <p>
     <a href="https://central.vercel.app" target="_blank">
@@ -144,6 +148,8 @@ magdalenalococo@gmail.com
   <p>
     <b>Check what's the weather like in any city of the world!</b><br/>
   This app was my first app learning React and CSS modules in the Henry Bootcamp
+  <br />
+  <a href="#" target="_blank"><b>Start using the app</b></a> --><a href="https://github.com/maguilococo/FT-M2/tree/master/08-React-Estado-LifeCycle" target="_blank"> repository</a> 
   </p>
   <p>
     <a href="./WeatherApp/emptyHome.png" target="_blank">
