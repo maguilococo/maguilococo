@@ -90,30 +90,43 @@ magdalenalococo@gmail.com
         <span>Java</span>
       </a>
     </p>
-
-<br>
 <hr>
 <h2 align="left">My Projects</h2>
-<h3>DogApp</h3>
-Meet the diversity of dogs in the world!
-This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
-<div>  
-  <img  align="left" src="./DogApp/landPage.png" alt="me" width="220" height="120"/>
-  <img  align="left" src="./DogApp/Home.png" alt="me" width="220" height="120"/>
-  <img  align="left" src="./DogApp/form.png" alt="me" width="220" height="120"/>
-  <img  align="left" src="./DogApp/details.png" alt="me" width="220" height="120"/>
-</div>
-<br>
-<hr>
-<h3>My House App</h3>
-Find your next home in our real estate app.
-Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
-<div>  
-  <img  align="left" src="./MyHouseApp/Home.png" alt="me" width="220" height="120"/>
-  <img  align="left" src="./MyHouseApp/Details.png" alt="me" width="220" height="120"/>
-  <img  align="left" src="./MyHouseApp/admin.png" alt="me" width="220" height="120"/>
-  <img  align="left" src="./MyHouseApp/map.png" alt="me" width="220" height="120"/>
-</div>
+  <h3>DogApp</h3>
+  <p>Meet the diversity of dogs in the world!
+    This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
+  </p>  
+  <p>
+    <img  align="left" src="./DogApp/landPage.png" alt="me" width="260" height="140"/>
+    <img  align="left" src="./DogApp/Home.png" alt="me" width="260" height="140"/>
+    <img  align="left" src="./DogApp/form.png" alt="me" width="260" height="140"/>
+    <img  align="left" src="./DogApp/details.png" alt="me" width="260" height="140"/>
+  </p>  
+  <br />
+  
+  <h3>My House App</h3>
+  Find your next home in our real estate app.
+  Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
+  <p>
+    <a href="https://central.vercel.app" target="_blank">
+      <img  align="left" src="./MyHouseApp/Home.png" alt="me" width="260" height="140"/>
+    </a>
+    <a href="https://central.vercel.app" target="_blank">
+      <img  align="left" src="./MyHouseApp/Details.png" alt="me" width="260" height="140"/>
+    </a>
+    <a href="https://central.vercel.app" target="_blank">
+      <img  align="left" src="./MyHouseApp/admin.png" alt="me" width="260" height="140"/>
+    </a>
+    <a href="https://central.vercel.app" target="_blank">
+      <img  align="left" src="./MyHouseApp/map.png" alt="me" width="260" height="100"/>
+    </a>
+  </p>
+  
 
-<h3>WeatherApp</h3>
-
+  <br />
+  <h3>WeatherApp</h3>
+  <p>
+    <img  align="left" src="./WeatherApp/home.png" alt="me" width="260" height="140"/>
+    <img  align="left" src="./WeatherApp/emptyHome.png" alt="me" width="260" height="140"/>
+  </p>
+</div>
