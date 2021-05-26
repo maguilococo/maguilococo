@@ -97,10 +97,27 @@ magdalenalococo@gmail.com
     This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
   </p>  
   <p>
-    <img  align="left" src="./DogApp/landPage.png" alt="me" width="260" height="140"/>
-    <img  align="left" src="./DogApp/Home.png" alt="me" width="260" height="140"/>
-    <img  align="left" src="./DogApp/form.png" alt="me" width="260" height="140"/>
-    <img  align="left" src="./DogApp/details.png" alt="me" width="260" height="140"/>
+    <a href="http://18.216.92.193/" target="_blank">
+      <img  align="center" src="./DogApp/landPage.png" alt="me" width="260" height="140"/>
+    </a>
+    <a href="http://18.216.92.193/" target="_blank">
+      <img  align="center" src="./DogApp/responsive_landPage.png" alt="me" width="110" height="200"/>
+    </a>
+    <a href="http://18.216.92.193/" target="_blank">
+      <img  align="center" src="./DogApp/Home.png" alt="me" width="260" height="140"/>
+    </a>
+    <a href="http://18.216.92.193/" target="_blank">
+      <img  align="center" src="./DogApp/responsive_Home.png" alt="me" width="110" height="200"/>
+    </a>
+    <a href="http://18.216.92.193/" target="_blank">
+      <img  align="center" src="./DogApp/responsive_form.png" alt="me" width="110" height="200"/>
+    </a>
+    <a href="http://18.216.92.193/" target="_blank">
+      <img  align="center" src="./DogApp/form.png" alt="me" width="260" height="140"/>
+    </a>
+    <a href="http://18.216.92.193/" target="_blank">
+      <img  align="center" src="./DogApp/details.png" alt="me" width="260" height="140"/>
+    </a>
   </p>  
   <br />
   
@@ -109,16 +126,16 @@ magdalenalococo@gmail.com
   Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
   <p>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="left" src="./MyHouseApp/Home.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./MyHouseApp/Home.png" alt="me" width="260" height="140"/>
     </a>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="left" src="./MyHouseApp/Details.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./MyHouseApp/Details.png" alt="me" width="260" height="140"/>
     </a>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="left" src="./MyHouseApp/admin.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./MyHouseApp/admin.png" alt="me" width="260" height="140"/>
     </a>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="left" src="./MyHouseApp/map.png" alt="me" width="260" height="100"/>
+      <img  align="center" src="./MyHouseApp/map.png" alt="me" width="260" height="100"/>
     </a>
   </p>
   
