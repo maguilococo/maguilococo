@@ -96,13 +96,19 @@ magdalenalococo@gmail.com
 <h2 align="left">My Projects</h2>
 <h3>DogApp</h3>
 Meet the diversity of dogs in the world!
-This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
-<img align="right" src="./DogApp/landPage.png" alt="me" width="340" height="340"/>
-<img align="right" src="./DogApp/Home.png" alt="me" width="340" height="340"/>
-<img align="right" src="./DogApp/form.png" alt="me" width="340" height="340"/>
-<img align="right" src="./DogApp/search_filterpng.png" alt="me" width="340" height="340"/>
-<img align="right" src="./DogApp/details.png" alt="me" width="340" height="340"/>
+This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node, Express, Sequelize and Postgress in the server side.
+<div>  
+  <img  align="left" src="./DogApp/landPage.png" alt="me" width="220" height="120"/>
+  <img  align="left" src="./DogApp/Home.png" alt="me" width="220" height="120"/>
+  <img  align="left" src="./DogApp/form.png" alt="me" width="220" height="120"/>
+  <img  align="left" src="./DogApp/details.png" alt="me" width="220" height="120"/>
+</div>
+<br>
+<hr>
 <h3>My House App</h3>
+Find your next home in our real estate app.
+Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform.
+
 
 <h3>WeatherApp</h3>
 
