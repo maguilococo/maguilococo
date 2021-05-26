@@ -103,7 +103,7 @@ magdalenalococo@gmail.com
       <img  align="center" src="./DogApp/responsive_landPage.png" alt="me" width="110" height="200"/>
     </a>
     <a href="http://18.216.92.193/" target="_blank">
-      <img  align="center" src="./DogApp/Home.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./DogApp/Home.png" alt="me" width="280" height="140"/>
     </a>
     <a href="http://18.216.92.193/" target="_blank">
       <img  align="center" src="./DogApp/responsive_Home.png" alt="me" width="110" height="200"/>
@@ -112,10 +112,10 @@ magdalenalococo@gmail.com
       <img  align="center" src="./DogApp/responsive_form.png" alt="me" width="110" height="200"/>
     </a>
     <a href="http://18.216.92.193/" target="_blank">
-      <img  align="center" src="./DogApp/form.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./DogApp/form.png" alt="me" width="280" height="140"/>
     </a>
     <a href="http://18.216.92.193/" target="_blank">
-      <img  align="center" src="./DogApp/details.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./DogApp/details.png" alt="me" width="280" height="140"/>
     </a>
   </p>  
   <br />
@@ -129,16 +129,16 @@ magdalenalococo@gmail.com
   </p>
   <p>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="center" src="./MyHouseApp/Home.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./MyHouseApp/Home.png" alt="me" width="280" height="140"/>
     </a>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="center" src="./MyHouseApp/Details.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./MyHouseApp/Details.png" alt="me" width="280" height="140"/>
     </a>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="center" src="./MyHouseApp/admin.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./MyHouseApp/admin.png" alt="me" width="280" height="140"/>
     </a>
     <a href="https://central.vercel.app" target="_blank">
-      <img  align="center" src="./MyHouseApp/map.png" alt="me" width="260" height="100"/>
+      <img  align="center" src="./MyHouseApp/map.png" alt="me" width="280" height="100"/>
     </a>
   </p>
   
@@ -153,10 +153,10 @@ magdalenalococo@gmail.com
   </p>
   <p>
     <a href="./WeatherApp/emptyHome.png" target="_blank">
-      <img  align="left" src="./WeatherApp/home.png" alt="me" width="260" height="140"/>
+      <img  align="left" src="./WeatherApp/home.png" alt="me" width="280" height="140"/>
     </a>
     <a href="./WeatherApp/emptyHome.png" target="_blank">
-      <img  align="left" src="./WeatherApp/emptyHome.png" alt="me" width="260" height="140"/>
+      <img  align="left" src="./WeatherApp/emptyHome.png" alt="me" width="280" height="140"/>
   </a>
   </p>
 </div>
