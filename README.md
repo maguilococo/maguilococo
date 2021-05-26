@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **[Mongo DB](https://www.mongodb.com/) and [Graph QL](https://graphql.org/)**
 
-- ⚡ Fun fact -> **I love animals and I think [meerkats](https://www.youtube.com/watch?v=W4og8g_X22o) kind of describe me**
+- ⚡ Fun fact -> **I love animals and I think [meerkats](https://www.youtube.com/watch?v=W4og8g_X22o) kind of describe me:** <br /> tiny, active & social
 <br>
 
 <h3>Reach me at </h3>
