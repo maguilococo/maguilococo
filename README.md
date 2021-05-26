@@ -97,7 +97,7 @@ magdalenalococo@gmail.com
   </p>  
   <p>
     <a href="http://18.216.92.193/" target="_blank">
-      <img  align="center" src="./DogApp/landPage.png" alt="me" width="260" height="140"/>
+      <img  align="center" src="./DogApp/landPage.png" alt="me" width="280 height="140"/>
     </a>
     <a href="http://18.216.92.193/" target="_blank">
       <img  align="center" src="./DogApp/responsive_landPage.png" alt="me" width="110" height="200"/>
