@@ -147,7 +147,7 @@ magdalenalococo@gmail.com
   <h3>The Weather App</h3>
   <p>
     <b>Check what's the weather like in any city of the world!</b><br/>
-  This app was my first app learning React and CSS modules in the Henry Bootcamp
+  This was my first app in React and CSS modules during the Henry Bootcamp
   <br />
   <a href="#" target="_blank"><b>Start using the app</b></a> --><a href="https://github.com/maguilococo/FT-M2/tree/master/08-React-Estado-LifeCycle" target="_blank"> repository</a> 
   </p>
