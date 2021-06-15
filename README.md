@@ -125,19 +125,19 @@ magdalenalococo@gmail.com
     <b>Find your next home in our real estate app.</b><br/>
     Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
   <br />
-  <a href="https://central.vercel.app" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/my-house-app/central" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
+  <a href="https://my-house-app-one.vercel.app/" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/myhouseapp/client" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
   </p>
   <p>
-    <a href="https://central.vercel.app" target="_blank">
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
       <img  align="center" src="./MyHouseApp/Home.png" alt="me" width="280" height="140"/>
     </a>
-    <a href="https://central.vercel.app" target="_blank">
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
       <img  align="center" src="./MyHouseApp/Details.png" alt="me" width="280" height="140"/>
     </a>
-    <a href="https://central.vercel.app" target="_blank">
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
       <img  align="center" src="./MyHouseApp/admin.png" alt="me" width="280" height="140"/>
     </a>
-    <a href="https://central.vercel.app" target="_blank">
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
       <img  align="center" src="./MyHouseApp/map.png" alt="me" width="280" height="100"/>
     </a>
   </p>
