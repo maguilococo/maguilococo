@@ -5,7 +5,7 @@
 
 - 🧩 I’m currently working on **[My House App](https://my-house-app-one.vercel.app/)** --> repository [client](https://github.com/myhouseapp/client) & [server](https://github.com/my-house-app/api)
 
-- 🌱 I’m learning **[Mongo DB](https://www.mongodb.com/) and [Graph QL](https://graphql.org/)**
+- 🌱 I’m learning **[JAVA](https://www.java.com)**
 
 - ⚡ Fun fact -> **I love animals and I think [meerkats](https://www.youtube.com/watch?v=W4og8g_X22o) kind of describe me:** <br /> tiny, active & social
 <br>
