@@ -88,6 +88,45 @@ magdalenalococo@gmail.com
     </p>
 <hr>
 <h2 align="left">My Projects</h2>
+
+ <h3>My House App</h3>
+  <p>
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">                                                     
+      <b>Visit our website and be ready to find the home you dream about!.</b><br/>
+    </a>
+    <p>
+        <a href="https://www.youtube.com/watch?v=wGsvqJFBktY" target="_blank">
+            <img src='https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Video.png' width="390" height="200" />
+        </a>
+    </p>
+    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
+  <br />
+  <a href="https://my-house-app-one.vercel.app/" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/myhouseapp/client" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
+  </p>
+  <p>
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
+      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/LandPage.png" alt="me" width="280" height="140"/>
+    </a>
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
+      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Home.png" alt="home" width="280" height="140"/>
+    </a>
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
+      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Details.png" alt="me" width="280" height="140"/>
+    </a>
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
+      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/loginMobile.png" alt="me" width="110" height="200"/>
+    </a>
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
+      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/newPost.png" alt="me" width="280" height="140"/>
+    </a>
+    <a href="https://my-house-app-one.vercel.app/" target="_blank">
+      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/AdminMobile.png" alt="me" width="110" height="200"/>
+    </a>
+  </p>
+
+
+
+
   <h3>DogApp</h3>
   <p>
     <b>Meet the diversity of dogs in the world!</b><br/>
@@ -119,41 +158,6 @@ magdalenalococo@gmail.com
     </a>
   </p>  
   <br />
-  
-  <h3>My House App</h3>
-  <p>
-    <a href="https://my-house-app-one.vercel.app/" target="_blank">                                                     
-      <b>Visit our website and be ready to find the home you dream about!.</b><br/>
-    </a>
-    <p>
-        <a href="https://www.youtube.com/watch?v=wGsvqJFBktY" target="_blank">
-            <img src='https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Video.png' width="350" height="200" />
-        </a>
-    </p>
-    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
-  <br />
-  <a href="https://my-house-app-one.vercel.app/" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/myhouseapp/client" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
-  </p>
-  <p>
-    <a href="https://my-house-app-one.vercel.app/" target="_blank">
-      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/LandPage.png" alt="me" width="280" height="140"/>
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" target="_blank">
-      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Home.png" alt="home" width="280" height="140"/>
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" target="_blank">
-      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Details.png" alt="me" width="280" height="140"/>
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" target="_blank">
-      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/loginMobile.png" alt="me" width="110" height="200"/>
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" target="_blank">
-      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/newPost.png" alt="me" width="280" height="140"/>
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" target="_blank">
-      <img  align="center" src="https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/AdminMobile.png" alt="me" width="110" height="200"/>
-    </a>
-  </p>
   
 
   <br />
