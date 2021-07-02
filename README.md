@@ -126,7 +126,7 @@ magdalenalococo@gmail.com
 
 
 
-
+<hr> 
   <h3>DogApp</h3>
   <p>
     <b>Meet the diversity of dogs in the world!</b><br/>
@@ -161,6 +161,7 @@ magdalenalococo@gmail.com
   
 
   <br />
+  <hr>
   <h3>The Weather App</h3>
   <p>
     <b>Check what's the weather like in any city of the world!</b><br/>
