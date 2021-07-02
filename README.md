@@ -123,6 +123,12 @@ magdalenalococo@gmail.com
   <h3>My House App</h3>
   <p>
     <b>Find your next home in our real estate app.</b><br/>
+   **[Visit our website and be ready to find the home you dream about!](https://my-house-app-one.vercel.app/)**
+    <p>
+        <a href="https://www.youtube.com/watch?v=wGsvqJFBktY" target="_blank">
+            <img src='https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Video.png' width="280" height="140" />
+        </a>
+    </p>
     Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
   <br />
   <a href="https://my-house-app-one.vercel.app/" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/myhouseapp/client" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
