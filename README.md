@@ -99,7 +99,7 @@ magdalenalococo@gmail.com
             <img src='https://github.com/maguilococo/maguilococo/blob/main/MyHouseApp/Video.png' width="390" height="200" />
         </a>
     </p>
-    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Google Maps & Street-View, Mercado Pago payment plataform and Administration Panel.
+    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress and incorporated Auth0 authentication + 2FA, Google Geocoding API, Google Maps & Street-View, Mercado Pago payment plataform and Administration Panel.
   <br />
   <a href="https://my-house-app-one.vercel.app/" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/myhouseapp/client" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
   </p>
