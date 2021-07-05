@@ -130,9 +130,9 @@ magdalenalococo@gmail.com
   <h3>DogApp</h3>
   <p>
     <b>Meet the diversity of dogs in the world!</b><br/>
-    This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node.js, Express, Sequelize and Postgress in the server side.
+    This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node.js, Express, Sequelize and PostgreSQL in the server side.
   <br />
-  <a href="https://dogapp.vercel.app/" target="_blank"><b>Try the app</b></a> --> repository <a href="https://github.com/maguilococo/DogApp_client" target="_blank">client</a> & </a><a href="https://github.com/maguilococo/DogApp-api"
+  <a href="https://dogapp.vercel.app/" target="_blank"><b>Try the app</b></a> --> repositories <a href="https://github.com/maguilococo/DogApp_client" target="_blank">client</a> & </a><a href="https://github.com/maguilococo/DogApp-api">server</a>
   </p>  
   <p>
     <a href="https://dogapp.vercel.app/" target="_blank">
