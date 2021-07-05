@@ -132,31 +132,31 @@ magdalenalococo@gmail.com
     <b>Meet the diversity of dogs in the world!</b><br/>
     This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node.js, Express, Sequelize and Postgress in the server side.
   <br />
-  <a href="http://18.216.92.193/" target="_blank"><b>Try the app</b></a> --> repository <a href="https://github.com/maguilococo/PI-Dogs/tree/main/client" target="_blank">client</a> & </a><a href="https://github.com/maguilococo/PI-Dogs/tree/main/api" target="_blank">server</a>
+  <a href="https://dogapp.vercel.app/" target="_blank"><b>Try the app</b></a> --> repository <a href="https://github.com/maguilococo/DogApp_client" target="_blank">client</a> & </a><a href="https://github.com/maguilococo/DogApp-api"
   </p>  
   <p>
-    <a href="http://18.216.92.193/" target="_blank">
+    <a href="https://dogapp.vercel.app/" target="_blank">
       <img  align="center" src="./DogApp/landPage.png" alt="me" width="280 height="140"/>
     </a>
-    <a href="http://18.216.92.193/" target="_blank">
+    <a href="https://dogapp.vercel.app/" target="_blank">
       <img  align="center" src="./DogApp/responsive_landPage.png" alt="me" width="110" height="200"/>
     </a>
-    <a href="http://18.216.92.193/" target="_blank">
+    <a href="https://dogapp.vercel.app/" target="_blank">
       <img  align="center" src="./DogApp/Home.png" alt="me" width="280" height="140"/>
     </a>
-    <a href="http://18.216.92.193/" target="_blank">
+    <a href="https://dogapp.vercel.app/" target="_blank">
       <img  align="center" src="./DogApp/responsive_Home.png" alt="me" width="110" height="200"/>
     </a>
-    <a href="http://18.216.92.193/" target="_blank">
+    <a href="https://dogapp.vercel.app/" target="_blank">
       <img  align="center" src="./DogApp/responsive_form.png" alt="me" width="110" height="200"/>
     </a>
-    <a href="http://18.216.92.193/" target="_blank">
+    <a href="https://dogapp.vercel.app/" target="_blank">
       <img  align="center" src="./DogApp/form.png" alt="me" width="280" height="140"/>
     </a>
-    <a href="http://18.216.92.193/" target="_blank">
+    <a href="https://dogapp.vercel.app/" target="_blank">
       <img  align="center" src="./DogApp/details.png" alt="me" width="280" height="140"/>
     </a>
-  </p>  
+  </p>    
   <br />
   
 
