@@ -3,7 +3,7 @@
 <hr>
 <img align="right" src="./Studying-bro.svg" alt="me" width="340" height="340"/>
 
-- 🧩 I’m currently working on **[My House App](https://my-house-app-one.vercel.app/)** --> repository [client](https://github.com/myhouseapp/client) & [server](https://github.com/my-house-app/api)
+- 🧩 Check out my last project -> **[My House App](https://my-house-app-one.vercel.app/)** --> repository [client](https://github.com/myhouseapp/client) & [server](https://github.com/my-house-app/api)
 
 - 🌱 I’m learning **[Java](https://www.java.com)**
 
