@@ -1,11 +1,9 @@
 <h1 align="center">Hello there, I'm Magui Lococo</h1>
-<h3 align="center">Full Stack Developer from Argentina 🧉</h3>
+<h3 align="center">Software Developer from Argentina 🧉</h3>
 <hr>
 <img align="right" src="./Studying-bro.svg" alt="me" width="340" height="340"/>
 
-- 🧩 Check out my last project -> **[My House App](https://my-house-app-one.vercel.app/)** --> repository [client](https://github.com/myhouseapp/client) & [server](https://github.com/my-house-app/api)
-
-- 🌱 I’m learning **[Java](https://www.java.com)**
+- 🌱 I’m currently working at Mercado Libre
 
 - ⚡ Fun fact -> **I love animals and I think [meerkats](https://www.youtube.com/watch?v=W4og8g_X22o) kind of describe me:** <br /> tiny, active & social
 <br>
